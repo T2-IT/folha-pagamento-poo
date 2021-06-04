@@ -1,4 +1,4 @@
-# Trabalho Final de POO | Residência de Software Serratec
+# Projeto Final de POO | Residência de Software Serratec
 
 ## Cálculo Salário
 
